@@ -6,4 +6,4 @@ Slack username: @Micheal
 
 Track: Front End Track
 
-Courses: Html,Css and Javascript
+Courses: Html, Css and Javascript
